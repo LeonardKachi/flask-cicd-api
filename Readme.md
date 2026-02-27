@@ -196,4 +196,4 @@ GitHub Push
 ## Author
 
 Onyedikachi Henry Leonard
-[GitHub](https://github.com/LeonardKachi) | [LinkedIn](https://linkedin.com/in/onyedikachi-leonard)
+[GitHub](https://github.com/LeonardKachi) | [LinkedIn](https://linkedin.com/in/onyedikachi-leonard) | [Portfolio](www.leonardkachi.click)
